@@ -11,20 +11,20 @@ description: Personal website powered by Jekyll
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Matheus Dias
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Jekyll Theme
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: matheuspbfdias@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
+github_username: mattdias96
 codepen_username: exampleUser
 dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+linkedin_username: matheus-p-dias
+twitter_username: themattdias
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,8 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
-
+about_me_description: Welcome to my website! I am a Machine Learning Engineer looking for interesting problems to work on. I am finishing up my MSc in Statistics at Stanford University, where I focused on Interpretability, Causal Inference and Image-To-Text Generation. I have previously interned at Meta AI and Openlayer (YCS21), and worked full time at Wildlife Studios and Bain & Company. 
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -53,7 +52,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/file/d/1KXW4HydB5ks0UmZOP-d7Q3MnfS6kLFWc/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
