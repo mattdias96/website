@@ -39,6 +39,11 @@
   title-url: https://example.com/
   date: Sep 2021 - Mar 2023
   subtitle: M.Sc. Statistics
+  tags:
+    - tag: Causal Inference
+    - tag: Natural Language Processing
+    - tag: Computer Vision
+    - tag: Time Series
   timeline-side: right
   
 - title: Wildlife Studios
