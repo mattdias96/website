@@ -104,7 +104,7 @@ projects:
     projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
-    matheusdias.github.io
+      - matheusdias.github.io
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
