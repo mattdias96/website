@@ -14,7 +14,7 @@ title: Matheus Dias
 username: Matheus Dias
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Research Engineer
+typing_text: Machine Learning Engineer
 # email: Your E-Mail address for the email button.
 email: matheuspbfdias@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Welcome to my website! I am a Machine Learning Engineer looking for interesting problems to work on. I am finishing up my MSc in Statistics at Stanford University, where I focused on Interpretability, Causal Inference and Image-To-Text Generation. I have previously interned at Meta AI and Openlayer (YCS21), and worked full time at Wildlife Studios and Bain & Company. 
+about_me_description: Welcome to my website! I am a Machine Learning Engineer looking for interesting problems to work on. I am finishing up my Master's in Statistics at Stanford University, where I focused on Interpretability, Causal Inference and Image-To-Text Generation. I have previously interned at Meta AI and Openlayer (YCS21). 
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -80,7 +80,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Feel free to contact me through one of the channels below
 
 # GITHUB-METADATA
 # Set this to your forked repository
@@ -104,6 +104,7 @@ projects:
     projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
+    matheusdias.github.io
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
