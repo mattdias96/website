@@ -26,8 +26,6 @@
     - tag: PyTorch
   timeline-side: right
 
-
-
 - title: Meta 
   title-url: https://example.com/
   date: June 2022 - Sep 2022
@@ -36,8 +34,6 @@
     - tag: Python
     - tag: Time Series
   timeline-side: left
-
-
 
 - title: Stanford University
   title-url: https://example.com/
