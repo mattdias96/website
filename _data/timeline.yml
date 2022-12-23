@@ -68,4 +68,7 @@
   title-url: https://example.com/
   date: Aug 2015 - May 2019
   subtitle: B.A. Mathematics and Economics
+  tags:
+    - tag: Econometrics
+    - tag: Mathematical Finance
   timeline-side: left
