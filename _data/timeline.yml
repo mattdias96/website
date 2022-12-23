@@ -39,11 +39,11 @@
 
 
 
-- title: Stanford University
+#- title: Stanford University
   #title-url: https://example.com/
-  date: Sep 2021 - Mar 2023
-  subtitle: M.Sc. Statistics
-  timeline-side: right
+  #date: Sep 2021 - Mar 2023
+  #subtitle: M.Sc. Statistics
+  #timeline-side: right
   
   - title: Wildlife Studios
   #title-url: https://example.com/
