@@ -12,15 +12,6 @@
 #     - tag: Express
 #     - tag: AngularJS
 #     - tag: Node
-
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Nod
     
 - name: Spillover Impact of Cash Transfers on Education
   descr: "Randomized Controlled Trial of Cash Transfers on Educational Attainment"
@@ -46,9 +37,9 @@
     - tag: Sentiment Analysis
     
 - name: Explaining the relationship between campaign funding and chance of being elected
-  descr:  "Using Random Forest and Shap Partial Dependence Plots to understand the relationship between fundrainsing and election probabilities"
+  descr:  "Using Random Forest and SHAP Partial Dependence Plots to understand the relationship between fundrainsing and election probabilities"
   demo: https://matheusdias-50631.medium.com/how-to-get-elected-part-1-ef0b2f6341e7
   tags: 
     - tag: Python
-    - tag: Shap
+    - tag: SHAP
     - tag: SciKit Learn
