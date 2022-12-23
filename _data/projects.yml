@@ -21,3 +21,11 @@
     - tag: Express
     - tag: AngularJS
     - tag: Nod
+    
+- name: Spillover Impact of Cash Transfers on Education
+  descr: "Randomized Controlled Trial of Cash Transfers on Educational Attainment"
+  demo: https://matheusdias-50631.medium.com/spillover-impact-of-cash-transfers-on-education-3725a6ea6a82
+  tags: 
+    - tag: Stata
+    - tag: Causal Inference
+    - tag: Logistic Regression
