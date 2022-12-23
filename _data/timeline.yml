@@ -28,7 +28,7 @@
 
 - title: Meta 
   title-url: https://example.com/
-  date: June 2022 - Sep 2022
+  date: Jun 2022 - Sep 2022
   subtitle: Research Data Science Intern
   tags:
     - tag: Python
@@ -43,7 +43,7 @@
   
 - title: Wildlife Studios
   title-url: https://example.com/
-  date: October 2020 - August 2021
+  date: Oct 2020 - Aug 2021
   subtitle: Data Analyst
   tags:
     - tag: SQL
@@ -51,9 +51,9 @@
   timeline-side: left
 
 - title: Bain & Company
-  #title-url: https://example.com/
-  date: Sep 2019 - October 2020
-  subtitle: Front-End Developer as Intern
+  title-url: https://example.com/
+  date: Sep 2019 - Oct 2020
+  subtitle: Associate Consultant
   tags:
     - tag: Python
     - tag: Excel
@@ -61,6 +61,6 @@
 
 - title: Duke University
   title-url: https://example.com/
-  date: 2015 - 2019
+  date: Aug 2015 - May 2019
   subtitle: B.A. Mathematics and Economics
   timeline-side: left
