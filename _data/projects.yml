@@ -13,21 +13,35 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Spillover Impact of Cash Transfers on Education
+  descr: "Randomized Controlled Trial of Cash Transfers on Educational Attainment"
+  demo: https://matheusdias-50631.medium.com/spillover-impact-of-cash-transfers-on-education-3725a6ea6a82
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Stata
+    - tag: Causal Inference
+    - tag: Logistic Regression
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+
+- name: Identifying Subnotified Cities in Domestic Violence Reporting
+  descr: "Analysis on identifying outlier municipialities on domestic violence subnotification using ensemble models "
+  demo: https://matheusdias-50631.medium.com/identifying-subnotified-cities-in-domestic-violence-reporting-cc2be3237db2
   tags:
     - tag: Python
-    - tag: Django
+    - tag: SciKit Learn
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+
+- name: Assessing the Approval of President Bolsonaro among Brazilian Congress Members
+  descr: "Evaluating the correlation between sentiment toward the President from Tweets and his approval from polls"
+  demo: https://matheusdias-50631.medium.com/assessing-the-approval-of-president-bolsonaro-among-brazilian-congress-members-a91e85b2213d
+  tags:
+    - tag: Python
+    - tag: NLP
+    - tag: Sentiment Analysis
+    
+ - name: Explaining the relationship between campaign funding and chance of being elected
+  descr: "Using Random Forest and Shap Partial Dependence Plots to understand the relationship between fundrainsing and election probabilities"
+  demo: https://matheusdias-50631.medium.com/how-to-get-elected-part-1-ef0b2f6341e7
+  tags:
+    - tag: Python
+    - tag: Shap
+    - tag: SciKit Learn
